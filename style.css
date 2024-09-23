@@ -1,0 +1,21 @@
+body {
+    background-color: #4c5c96;
+}
+
+
+.logo {
+    width: 8cm;
+
+}
+
+.groom {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.gg {
+    text-align: center;
+}
+

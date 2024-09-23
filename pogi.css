@@ -1,0 +1,16 @@
+ 
+body {
+    background-image: url(img/Carlos.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+
+.carlos {
+    width: 9cm;
+    height: 9cm;
+} 
+
+.popo {
+    border: 50;
+}
